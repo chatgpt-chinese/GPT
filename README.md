@@ -1,6 +1,6 @@
 # 【Chat GPT】国内可访问的中文 GPT 网站推荐~ （支持GPT-4、4o和o1）【2025年4月更新】
 
-> 更新：2025-04-04        
+> 更新：2025-04-05        
 
 全面讲解 **Chat GPT 的国内使用方法**，推荐多个**无需翻墙**的 [**GPT-4镜像网站**](https://chat.yixiaai.com)
 
@@ -32,10 +32,10 @@
 2. **蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro/))**  
    **ChatGPT中文版**，支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
 
-3. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
+3. **AI智慧岛 ([chat.lify.vip](https://chat.lify.vip/))**  
    **GPT镜像网站**，多功能平台，支持 GPT-4、4o 及 o1，适合各类用户需求。
 
-4. **AI智绘 ([guide1.lanjing.pro](https://guide1.lanjing.pro/))**  
+4. **AI中文 ([chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/))**  
    针对创意者，提供 AI 绘画和创作支持，支持 GPT-4、4o。
 
 5. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
