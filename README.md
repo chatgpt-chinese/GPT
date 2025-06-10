@@ -1,10 +1,10 @@
 # 【Chat GPT】国内可访问的中文 GPT 网站推荐~ （支持GPT-4、4o和o1）【2025年6月更新】
 
-> 更新：2025-06-10           
+> 更新：2025-06-11           
 
 全面讲解 **Chat GPT 的国内使用方法**，推荐多个**无需翻墙**的 [**GPT-4镜像网站**](https://xsimplechat.com)
 
-本指南提供 **[GPT使用](https://chat.lanjing.pro)指南**，并**支持ChatGPT-4**，您可以**无限制地使用GPT-4、GPT-4o、o1**
+本指南提供 **[GPT使用](https://chat.lanjingai.org)指南**，并**支持ChatGPT-4**，您可以**无限制地使用GPT-4、GPT-4o、o1**
 
 帮助您快速上手 ChatGPT，无论是个人使用还是专业需求，均可轻松使用GPT-4
 
@@ -29,7 +29,7 @@
 1. **一下AI ([xsimplechat.com](https://xsimplechat.com/))**  
    **GPT中文网站**，提供支持 GPT-4、4o、4o mini 及 o1 的全面服务，包含 AI 绘画功能，使用简便。
 
-2. **蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro/))**  
+2. **蓝鲸AI ([chat.lanjingai.org](https://chat.lanjingai.org/))**  
    **ChatGPT中文版**，支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
 
 3. **AI智慧岛 ([chat.lify.vip](https://chat.lify.vip/))**  
@@ -62,7 +62,7 @@
 
 ## 如何使用 ChatGPT 中文网站？（详细教程）
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([xsimplechat.com](https://xsimplechat.com/))** 或**蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro))** 。
+1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([xsimplechat.com](https://xsimplechat.com/))** 或**蓝鲸AI ([chat.lanjingai.org](https://chat.lanjingai.org))** 。
 2. **注册或使用**：无需注册，按照提示用微信扫码即可。
 3. **选择ChatGPT版本**：根据需求选择GPT-4、GPT-3.5或GPT-4o、o1模型。
 4. **输入问题**：在聊天界面输入问题或任务，即可收到智能回答。
@@ -82,7 +82,7 @@
 
 4. **哪些站点适合新手？** <br />
    - **一下AI ([xsimplechat.com](https://xsimplechat.com/))** ：非常适合新手。
-   - **AI智慧岛 ([chat.lanjing.pro](https://chat.lanjing.pro/))** ：功能多样，适合有更高需求的用户。
+   - **AI智慧岛 ([chat.lanjingai.org](https://chat.lanjingai.org/))** ：功能多样，适合有更高需求的用户。
 
 5. **GPT-4o、o1官网限频使用，镜像站也限吗？** <br />
    不限频，无限制使用，即使是 o1 也不限。
